@@ -2,4 +2,4 @@
 
 #include <string>
 
-std::string oops();
+std::string oops(int, int, std::string, std::string);
